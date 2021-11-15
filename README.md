@@ -1,4 +1,4 @@
-# CIS130 Exam 2 – My Blog
+# 
 
 Create a website that has 3 pages
 
